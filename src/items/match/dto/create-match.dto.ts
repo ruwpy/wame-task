@@ -1,4 +1,4 @@
-import { IsFutureDate } from '@/decorators/future-date';
+import { IsFutureDate } from '../../../decorators/future-date';
 import {
   IsDateString,
   IsMilitaryTime,

@@ -1,4 +1,4 @@
-import { AbstractEntity } from '@/database/entities/abstract.entity';
+import { AbstractEntity } from '../../../database/entities/abstract.entity';
 import { Column, CreateDateColumn, Entity, UpdateDateColumn } from 'typeorm';
 
 @Entity('match')
